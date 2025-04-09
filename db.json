@@ -134,22 +134,7 @@
       "mileage": 5000,
       "color": "Red",
       "description": ""
-    },
-    {
-      "id": 10,
-      "brand": "Hyundai",
-      "model": "Elantra",
-      "year": 2022,
-      "price": 20500,
-      "fuelType": "Petrol",
-      "seatingCapacity": 5,
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCu--qlGoqJAMXei3IzM-CnOdqoIhqXQ_Zfw&s",
-      "engine": "2.0L 4-cylinder",
-      "transmission": "Automatic",
-      "mileage": 5000,
-      "color": "Red",
-      "description": ""
-    },
+    }
   ]
 }
  
