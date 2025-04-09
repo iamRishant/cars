@@ -1,0 +1,49 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2021,
+      "price": 24999,
+      "fuelType": "Petrol",
+      "seatingCapacity": "5",
+      "image": "https://example.com/toyota-camry.jpg",
+      "engine": "2.5L 4-cylinder",
+      "transmission": "Automatic",
+      "mileage": 15000,
+      "color": "Silver",
+      "description": "The Toyota Camry is a reliable midsize sedan with excellent fuel economy and a comfortable ride."
+    },
+    {
+      "id": 2,
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": 2022,
+      "price": 46990,
+      "fuelType": "Electric",
+      "seatingCapacity": "5",
+      "image": "https://example.com/tesla-model3.jpg",
+      "engine": "Electric",
+      "transmission": "Automatic",
+      "mileage": 5000,
+      "color": "Red",
+      "description": "The Tesla Model 3 is an all-electric sedan with impressive acceleration and cutting-edge technology."
+    },
+    {
+      "id": 3,
+      "brand": "Ford",
+      "model": "Explorer",
+      "year": 2020,
+      "price": 32999,
+      "fuelType": "Diesel",
+      "seatingCapacity": "7",
+      "image": "https://example.com/ford-explorer.jpg",
+      "engine": "3.0L V6",
+      "transmission": "Automatic",
+      "mileage": 25000,
+      "color": "Black",
+      "description": "The Ford Explorer is a spacious SUV with three rows of seating and plenty of cargo space."
+    }
+  ]
+}
